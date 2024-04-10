@@ -1,0 +1,72 @@
+# .NET
+*.obj
+*.dll
+*.exe
+*.pdb
+*.user
+*.vs/
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.bak
+*.cache
+*.log
+*.lib
+*.tmp
+*.dat
+*.tmp
+*.out
+*.pid
+*.pid.lock
+*.log
+*.idb
+*.ilt
+*.mpdb
+*.aps
+*.ipch
+*.pch
+*.sdf
+*.tlb
+*.tli
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.mdmp
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+
+# Resharper
+_ReSharper*/
+*.resharper
+*.sln.dotsettings.user
+
+# Test files
+*.testsettings
+*.trx
+*.vsmdi
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
